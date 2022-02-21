@@ -16,3 +16,5 @@
 - [SSR vs CSR - notion](https://www.notion.so/SSR-CSR-0618c7d9875244c8855a57d9f72b9473)
 
 ### Global style, \_app.js
+
+### ServerSideRendering, Dynamic Routes
